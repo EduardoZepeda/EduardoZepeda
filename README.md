@@ -3,13 +3,16 @@
 ## About me
 
 Web developer and GNU/Linux enthusiast.
-
+  - I learned almost all that I know about web development through [these books][books]
+  - Lately, I've been taking online courses on Platzi, check [my certificates here][certificates] 
   - Debian is my personal OS since 2010
   - Python, Django, FastAPI
   - Javascript, React
   - TailwindCSS
 
 ## My latest blog posts
+
+I have a blog, where I write frequently about Javascript, Python and GNU/Linux in spanish
 
 <!-- BLOG-POST-LIST:START -->
 - [Django annotate y aggregate: características y su uso en querysets](https://coffeebytes.dev/django-annotate-y-aggregate-caracteristicas-y-su-uso-en-querysets/?utm_source=rss&utm_medium=rss&utm_campaign=django-annotate-y-aggregate-caracteristicas-y-su-uso-en-querysets)
@@ -21,7 +24,7 @@ Web developer and GNU/Linux enthusiast.
 
 ## My social media
 
-Feel free to message me on social media.
+Feel free to message me on social media. 
 
   - :speech_balloon: [twitter][twitter]
   - :anger: [linkedin][linkedin] (Not very active here, though)
@@ -34,6 +37,8 @@ Feel free to message me on social media.
   - :coffee: I know a little bit about speciality coffee
   - :movie_camera: I am passionate about art films
 
+[books]: https://coffeebytes.dev/en/books-ive-read-and-reviews/ "I wrote a few reviews about them"
+[certificates]: https://platzi.com/@eduardo-zepeda/
 [website]: https://coffeebytes.dev
 [twitter]: https://twitter.com/neon_affogato
 [linkedin]: https://linkedin.com/in/--eduardozepeda--
