@@ -15,11 +15,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux in spanish
 
 <!-- BLOG-POST-LIST:START -->
+- [Python vs Javascript 2021 ¿Cuál es el mejor? Diferencias y similitudes](https://coffeebytes.dev/python-vs-javascript-2021-cual-es-el-mejor-diferencias-y-similitudes/?utm_source=rss&utm_medium=rss&utm_campaign=python-vs-javascript-2021-cual-es-el-mejor-diferencias-y-similitudes)
 - [¿Cómo crear un historial de productos visitados con django y redis?](https://coffeebytes.dev/como-crear-un-historial-de-productos-visitados-con-django-y-redis/?utm_source=rss&utm_medium=rss&utm_campaign=como-crear-un-historial-de-productos-visitados-con-django-y-redis)
 - [Django annotate y aggregate: características y su uso en querysets](https://coffeebytes.dev/django-annotate-y-aggregate-caracteristicas-y-su-uso-en-querysets/?utm_source=rss&utm_medium=rss&utm_campaign=django-annotate-y-aggregate-caracteristicas-y-su-uso-en-querysets)
 - [Nginx keepalive, gzip, http2: mejor rendimiento en tu sitio web](https://coffeebytes.dev/nginx-keepalive-gzip-http2-mejor-rendimiento-en-tu-sitio-web/?utm_source=rss&utm_medium=rss&utm_campaign=nginx-keepalive-gzip-http2-mejor-rendimiento-en-tu-sitio-web)
 - [Python FastAPI, como Django pero más rápido: Tutorial](https://coffeebytes.dev/python-fastapi-como-django-pero-mas-rapido-tutorial/?utm_source=rss&utm_medium=rss&utm_campaign=python-fastapi-como-django-pero-mas-rapido-tutorial)
-- [Tutorial de Cookiecutter-django y deploy con Docker-compose en linux](https://coffeebytes.dev/tutorial-de-cookiecutter-django-y-deploy-con-docker-compose-en-linux/?utm_source=rss&utm_medium=rss&utm_campaign=tutorial-de-cookiecutter-django-y-deploy-con-docker-compose-en-linux)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
