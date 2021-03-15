@@ -15,11 +15,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux in spanish
 
 <!-- BLOG-POST-LIST:START -->
+- [Throttling en Nginx](https://coffeebytes.dev/como-limitar-peticiones-con-throttling-en-nginx/)
 - [¿Cómo hacer un switch o match en Python?](https://coffeebytes.dev/como-hacer-un-switch-o-match-en-python/)
 - [5 librerías geniales de React que debes conocer](https://coffeebytes.dev/librerias-de-react-que-debes-conocer/)
 - [¿Para que sirve Django genericForeignkey?](https://coffeebytes.dev/para-que-sirve-django-genericforeignkey/)
 - [¿Qué hace la aplicación ContentType en Django?](https://coffeebytes.dev/que-hace-la-aplicacion-contenttype-en-django/)
-- [¿Cómo crear un comando en django?](https://coffeebytes.dev/como-crear-un-comando-en-django/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
