@@ -15,11 +15,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux in spanish
 
 <!-- BLOG-POST-LIST:START -->
+- [No cometas este error al usar arrays en Python](https://coffeebytes.dev/no-cometas-este-error-al-usar-arrays-en-python/)
 - [¿Cómo subir múltiples imágenes en Django?](https://coffeebytes.dev/como-subir-multiples-imagenes-en-django/)
 - [¿Por qué deberías usar Django Framework?](https://coffeebytes.dev/por-que-deberias-usar-django-framework/)
 - [Throttling en Nginx](https://coffeebytes.dev/como-limitar-peticiones-con-throttling-en-nginx/)
 - [¿Cómo hacer un switch o match en Python?](https://coffeebytes.dev/como-hacer-un-switch-o-match-en-python/)
-- [5 librerías geniales de React que debes conocer](https://coffeebytes.dev/librerias-de-react-que-debes-conocer/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
