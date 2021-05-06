@@ -34,6 +34,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 
 <!-- BLOG-POST-LIST:START -->
+- [Búsquedas de texto con Django y Postgres](https://coffeebytes.dev/busquedas-de-texto-con-django-y-postgres/)
+- [¿Cómo hacer accesible mi localhost usando Ngrok?](https://coffeebytes.dev/como-hacer-accesible-mi-localhost-usando-ngrok/)
+- [¿Cómo funcionan los permisos y grupos en Django?](https://coffeebytes.dev/como-funcionan-los-permisos-y-grupos-en-django/)
+- [No cometas este error al usar arrays en Python](https://coffeebytes.dev/no-cometas-este-error-al-usar-arrays-en-python/)
+- [¿Cómo subir múltiples imágenes en Django?](https://coffeebytes.dev/como-subir-multiples-imagenes-en-django/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
