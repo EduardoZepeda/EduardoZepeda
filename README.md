@@ -34,11 +34,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 
 <!-- BLOG-POST-LIST:START -->
+- [Trigramas y búsquedas avanzadas con Django y Postgres](https://coffeebytes.dev/trigramas-y-busquedas-avanzadas-con-django-y-postgres/)
 - [Búsquedas de texto con Django y Postgres](https://coffeebytes.dev/busquedas-de-texto-con-django-y-postgres/)
 - [¿Qué es ngrok y como se relaciona con el localhost?](https://coffeebytes.dev/que-es-ngrok-y-como-se-relaciona-con-el-localhost/)
 - [¿Cómo funcionan los permisos y grupos en Django?](https://coffeebytes.dev/como-funcionan-los-permisos-y-grupos-en-django/)
 - [No cometas este error al usar arrays en Python](https://coffeebytes.dev/no-cometas-este-error-al-usar-arrays-en-python/)
-- [¿Cómo subir múltiples imágenes en Django?](https://coffeebytes.dev/como-subir-multiples-imagenes-en-django/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
