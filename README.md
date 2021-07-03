@@ -23,11 +23,11 @@
 Web developer and GNU/Linux enthusiast.
   - I learned almost all that I know about web development through [these books][books]
   - Lately, I've been taking online courses on Platzi, check [my certificates here][certificates] 
-  - Sometimes I solve katas at [codewars][codewars]
+  - Sometimes I solve katas at [codewars][codewars], I'm 2 kyu now!
   - Debian is my personal OS since 2010
   - Python, Django, FastAPI
-  - Javascript, React, Nextjs
-  - TailwindCSS
+  - Javascript, Typescript, React, Nextjs
+  - TailwindCSS, styled components
 
 ## My latest blog posts
 
@@ -58,7 +58,7 @@ Feel free to message me on social media.
 
 [books]: https://coffeebytes.dev/en/books-ive-read-and-reviews/ "I wrote a few reviews about them"
 [certificates]: https://platzi.com/@eduardo-zepeda/
-[website]: https://coffeebytes.dev
-[twitter]: https://twitter.com/neon_affogato
-[linkedin]: https://linkedin.com/in/--eduardozepeda--
 [codewars]: https://www.codewars.com/users/EduardoZepeda
+[website]: https://coffeebytes.dev
+[twitter]: https://twitter.com/hello_wired
+[linkedin]: https://linkedin.com/in/--eduardozepeda--
