@@ -34,7 +34,7 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 
 <!-- BLOG-POST-LIST:START -->
-- [Django y Htmx, web apps modernas sin escribir JS](https://coffeebytes.dev/django-y-htmx-web-apps-modernas-sin-escribir-js/)
+- [Django y htmx, web apps modernas sin escribir JS](https://coffeebytes.dev/django-y-htmx-web-apps-modernas-sin-escribir-js/)
 - [No uses JWT para gestionar sesiones (Traducción)](https://coffeebytes.dev/no-uses-jwt-para-gestionar-sesiones-traduccion/)
 - [Autenticación usando JSON Web token JWT en Django](https://coffeebytes.dev/autenticacion-usando-json-web-token-jwt-en-django/)
 - [Managers o manejadores personalizados en Django](https://coffeebytes.dev/managers-o-manejadores-personalizados-en-django/)
