@@ -34,11 +34,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 
 <!-- BLOG-POST-LIST:START -->
+- [React useCallback, useMemo y memo, diferencias y usos](https://coffeebytes.dev/react-usecallback-usememo-y-memo-diferencias-y-usos/)
 - [API códigos postales de México con Django](https://coffeebytes.dev/api-codigos-postales-de-mexico-con-django/)
 - [Django y htmx, web apps modernas sin escribir JS](https://coffeebytes.dev/django-y-htmx-web-apps-modernas-sin-escribir-js/)
 - [No uses JWT para gestionar sesiones (Traducción)](https://coffeebytes.dev/no-uses-jwt-para-gestionar-sesiones-traduccion/)
 - [Autenticación usando JSON Web token JWT en Django](https://coffeebytes.dev/autenticacion-usando-json-web-token-jwt-en-django/)
-- [Managers o manejadores personalizados en Django](https://coffeebytes.dev/managers-o-manejadores-personalizados-en-django/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
