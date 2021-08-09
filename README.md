@@ -38,7 +38,7 @@ I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 - [API códigos postales de México con Django](https://coffeebytes.dev/api-codigos-postales-de-mexico-con-django/)
 - [Django y htmx, web apps modernas sin escribir JS](https://coffeebytes.dev/django-y-htmx-web-apps-modernas-sin-escribir-js/)
 - [No uses JWT para gestionar sesiones (Traducción)](https://coffeebytes.dev/no-uses-jwt-para-gestionar-sesiones-traduccion/)
-- [Autenticación usando JSON Web token JWT en Django](https://coffeebytes.dev/autenticacion-usando-json-web-token-jwt-en-django/)
+- [¿Cómo usar JWT en Django para autenticar usuarios?](https://coffeebytes.dev/como-usar-jwt-en-django-para-autenticar-usuarios/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
