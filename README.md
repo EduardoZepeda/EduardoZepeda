@@ -34,11 +34,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 
 <!-- BLOG-POST-LIST:START -->
+- [Caché en Django REST Framework con memcached](https://coffeebytes.dev/cache-en-django-rest-framework-con-memcached/)
 - [Tareas periódicas con Celery y Django](https://coffeebytes.dev/tareas-periodicas-con-celery-y-django/)
 - [Celery y django para ejecutar tareas asíncronas](https://coffeebytes.dev/celery-y-django-para-ejecutar-tareas-asincronas/)
 - [Login con Django Rest Framework DRF](https://coffeebytes.dev/login-con-django-rest-framework-drf/)
 - [React memo y useCallback para evitar renderizaciones](https://coffeebytes.dev/react-memo-y-usecallback-para-evitar-renderizaciones/)
-- [React useCallback, useMemo y memo, diferencias y usos](https://coffeebytes.dev/react-usecallback-usememo-y-memo-diferencias-y-usos/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
