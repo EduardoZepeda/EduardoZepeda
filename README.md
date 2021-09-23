@@ -34,11 +34,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 
 <!-- BLOG-POST-LIST:START -->
+- [Integración del ORM de Python tortoise con FastAPI](https://coffeebytes.dev/integracion-del-orm-de-python-tortoise-con-fastapi/)
 - [El django admin panel y su personalización](https://coffeebytes.dev/el-django-admin-panel-y-su-personalizacion/)
 - [Caché en Django REST Framework con memcached](https://coffeebytes.dev/cache-en-django-rest-framework-con-memcached/)
 - [Tareas periódicas con Celery y Django](https://coffeebytes.dev/tareas-periodicas-con-celery-y-django/)
 - [Celery y django para ejecutar tareas asíncronas](https://coffeebytes.dev/celery-y-django-para-ejecutar-tareas-asincronas/)
-- [Login con Django Rest Framework DRF](https://coffeebytes.dev/login-con-django-rest-framework-drf/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
