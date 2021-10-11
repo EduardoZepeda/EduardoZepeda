@@ -17,6 +17,7 @@
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="TravisCI" src="https://img.shields.io/badge/travisci-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 
 ## About me
 
@@ -28,6 +29,7 @@ Web developer and GNU/Linux enthusiast.
   - Python, Django, FastAPI
   - Javascript, Typescript, React, Nextjs
   - TailwindCSS, Bootstrap, styled components
+  - Currently learning Go
 
 ## My latest blog posts
 
