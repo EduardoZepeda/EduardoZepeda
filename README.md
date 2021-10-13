@@ -36,11 +36,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Cómo medir las peticiones por segundo con locust en python?](https://coffeebytes.dev/como-medir-las-peticiones-por-segundo-con-locust-en-python/)
 - [Plugin de facebook chat ¿cómo disminuir su impacto?](https://coffeebytes.dev/plugin-de-facebook-chat-como-disminuir-su-impacto/)
 - [OCR con tesseract, python y pytesseract](https://coffeebytes.dev/ocr-con-tesseract-python-y-pytesseract/)
 - [Integración del ORM de Python tortoise con FastAPI](https://coffeebytes.dev/integracion-del-orm-de-python-tortoise-con-fastapi/)
 - [El django admin panel y su personalización](https://coffeebytes.dev/el-django-admin-panel-y-su-personalizacion/)
-- [Caché en Django REST Framework con memcached](https://coffeebytes.dev/cache-en-django-rest-framework-con-memcached/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
