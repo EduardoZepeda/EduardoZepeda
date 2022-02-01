@@ -36,11 +36,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Cómo medir las peticiones por segundo con locust en python?](https://coffeebytes.dev/como-medir-las-peticiones-por-segundo-con-locust-en-python/)
-- [Plugin de facebook chat ¿cómo disminuir su impacto?](https://coffeebytes.dev/plugin-de-facebook-chat-como-disminuir-su-impacto/)
-- [OCR con tesseract, python y pytesseract](https://coffeebytes.dev/ocr-con-tesseract-python-y-pytesseract/)
-- [Integración del ORM de Python tortoise con FastAPI](https://coffeebytes.dev/integracion-del-orm-de-python-tortoise-con-fastapi/)
-- [El django admin panel y su personalización](https://coffeebytes.dev/el-django-admin-panel-y-su-personalizacion/)
+- [Go: channels, entendiendo los deadlocks o puntos muertos](https://coffeebytes.dev/go-channels-entendiendo-los-deadlocks-o-puntos-muertos/)
+- [Go: goroutines, channels o canales, introducción](https://coffeebytes.dev/go-goroutines-channels-o-canales-introduccion/)
+- [Go: importación de paquetes y manejo de módulos](https://coffeebytes.dev/go-importacion-de-paquetes-y-manejo-de-modulos/)
+- [Go: Structs, herencia, polimorfismo y encapsulación](https://coffeebytes.dev/go-structs-herencia-polimorfismo-y-encapsulacion/)
+- [Go: strings, runes y bytes](https://coffeebytes.dev/go-strings-runes-y-bytes/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
