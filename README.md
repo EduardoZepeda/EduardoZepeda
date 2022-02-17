@@ -36,11 +36,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 
 <!-- BLOG-POST-LIST:START -->
+- [Go: profiling o perfilado básico del uso del CPU](https://coffeebytes.dev/go-profiling-de-cpu/)
 - [Go: testing básico y coverage](https://coffeebytes.dev/go-testing-basico-y-coverage/)
 - [Go: condiciones de carrera en goroutines y mutex](https://coffeebytes.dev/go-condiciones-de-carrera-en-goroutines-y-mutex/)
 - [Go: channels, entendiendo los deadlocks o puntos muertos](https://coffeebytes.dev/go-channels-entendiendo-los-deadlocks-o-puntos-muertos/)
 - [Go: goroutines, channels o canales, introducción](https://coffeebytes.dev/go-goroutines-channels-o-canales-introduccion/)
-- [Go: importación de paquetes y manejo de módulos](https://coffeebytes.dev/go-importacion-de-paquetes-y-manejo-de-modulos/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
