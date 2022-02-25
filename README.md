@@ -36,11 +36,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Por qué usar React.FC podría ser una mala práctica?](https://coffeebytes.dev/por-que-usar-react-fc-podria-ser-una-mala-practica/)
 - [Go: profiling o perfilado básico del uso del CPU](https://coffeebytes.dev/go-profiling-de-cpu/)
 - [Go: testing básico y coverage](https://coffeebytes.dev/go-testing-basico-y-coverage/)
 - [Go: condiciones de carrera en goroutines y mutex](https://coffeebytes.dev/go-condiciones-de-carrera-en-goroutines-y-mutex/)
 - [Go: channels, entendiendo los deadlocks o puntos muertos](https://coffeebytes.dev/go-channels-entendiendo-los-deadlocks-o-puntos-muertos/)
-- [Go: goroutines, channels o canales, introducción](https://coffeebytes.dev/go-goroutines-channels-o-canales-introduccion/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
