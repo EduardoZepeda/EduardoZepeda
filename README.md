@@ -36,11 +36,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 
 <!-- BLOG-POST-LIST:START -->
+- [Categorías en Django usando ForeignKey hacia self](https://coffeebytes.dev/categorias-en-django-usando-foreignkey-hacia-self/)
 - [Debounce y Throttle en Javascript](https://coffeebytes.dev/debounce-y-throttle-en-javascript/)
 - [¿Cómo personalizar el modelo User en Django?](https://coffeebytes.dev/personalizar-el-model-user-en-django/)
 - [Diferencias entre select_related y prefetch_related en Django](https://coffeebytes.dev/diferencias-entre-select_related-y-prefetch_related-en-django/)
 - [¿Por qué usar React.FC podría ser una mala práctica?](https://coffeebytes.dev/por-que-usar-react-fc-podria-ser-una-mala-practica/)
-- [Go: profiling o perfilado básico del uso del CPU](https://coffeebytes.dev/go-profiling-de-cpu/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
