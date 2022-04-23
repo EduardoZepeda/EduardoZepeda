@@ -36,10 +36,10 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 
 <!-- BLOG-POST-LIST:START -->
-- [Características básicas de una API REST y recomendaciones](https://coffeebytes.dev/caracteristicas-basicas-de-una-api-rest/)
-- [Categorías en Django usando ForeignKey hacia self](https://coffeebytes.dev/categorias-en-django-usando-foreignkey-hacia-self/)
+- [Caracteristicas basicas de una API REST y recomendaciones](https://coffeebytes.dev/caracteristicas-basicas-de-una-api-rest-y-recomendaciones/)
+- [Categorias en Django usando ForeignKey hacia self](https://coffeebytes.dev/categorias-en-django-usando-foreignkey-hacia-self/)
 - [Debounce y Throttle en Javascript](https://coffeebytes.dev/debounce-y-throttle-en-javascript/)
-- [¿Cómo personalizar el modelo User en Django?](https://coffeebytes.dev/personalizar-el-model-user-en-django/)
+- [¿Como personalizar el modelo User en Django?](https://coffeebytes.dev/como-personalizar-el-modelo-user-en-django/)
 - [Diferencias entre select_related y prefetch_related en Django](https://coffeebytes.dev/diferencias-entre-select_related-y-prefetch_related-en-django/)
 <!-- BLOG-POST-LIST:END -->
 
