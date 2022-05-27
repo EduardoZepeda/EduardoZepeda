@@ -36,11 +36,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Cómo implementar Solr para búsquedas o queries en Django?](https://coffeebytes.dev/busquedas-con-solr-con-django-haystack/)
 - [Git Submodules Y Flujo de Trabajo](https://coffeebytes.dev/git-submodules-y-flujo-de-trabajo/)
 - [Top 5 Problemas de Algoritmos Favoritos en Codewars](https://coffeebytes.dev/top-5-problemas-de-algoritmos-favoritos-en-codewars/)
 - [Buenas prácticas y diseño de una API REST](https://coffeebytes.dev/buenas-practicas-y-diseno-de-una-api-rest/)
 - [Características básicas de una API REST y recomendaciones](https://coffeebytes.dev/caracteristicas-basicas-de-una-api-rest/)
-- [Categorias en Django usando ForeignKey hacia self](https://coffeebytes.dev/categorias-en-django-usando-foreignkey-hacia-self/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
