@@ -36,11 +36,11 @@ Web developer and GNU/Linux enthusiast.
 I have a blog, where I write frequently about Javascript, Python and GNU/Linux.
 
 <!-- BLOG-POST-LIST:START -->
+- [Logging con la librería estándar en Go](https://coffeebytes.dev/logging-con-la-libreria-estandar-en-go/)
 - [¿Cómo Funciona un Container de Docker Internamente?](https://coffeebytes.dev/container-de-docker-con-namespaces-y-cgroups/)
 - [Autocompletado, Sugerencias y Contenido Relacionado: Solr Y Django](https://coffeebytes.dev/autocompletado-sugerencias-y-contenido-relacionado-solr-y-django/)
 - [¿Cómo implementar Solr para búsquedas o queries en Django?](https://coffeebytes.dev/busquedas-con-solr-con-django-haystack/)
 - [Git Submodules Y Flujo de Trabajo](https://coffeebytes.dev/git-submodules-y-flujo-de-trabajo/)
-- [Top 5 Problemas de Algoritmos Favoritos en Codewars](https://coffeebytes.dev/top-5-problemas-de-algoritmos-favoritos-en-codewars/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
