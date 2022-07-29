@@ -16,7 +16,7 @@
 <img alt="Hugo" src="https://img.shields.io/badge/Hugo-0594CB?style=for-the-badge&logo=hugo&logoColor=white"/>
 <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="Jenkins" src=" 	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-FFFdFa?style=for-the-badge&logo=Jenkins&logoColor=gray"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 ## About me
