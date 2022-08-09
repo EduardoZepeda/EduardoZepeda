@@ -23,7 +23,8 @@
 
 Web developer and GNU/Linux enthusiast.
   - I learned almost all I know about web development through [these books][books]
-  - Lately, I've been taking online courses on Udemy, Educative and [Platzi][platzi]
+  - Lately, I've been taking online courses on [Udemy][udemy], Educative and [Platzi][platzi]
+  - Microsoft Azure [AZ-900 certified][az900certificate]
   - Sometimes I practice katas (algorithms) on [codewars][codewars], I'm 2 kyu now!
   - Debian is my personal OS since 2010.
   - Python, Django, FastAPI
@@ -95,3 +96,5 @@ Feel free to message me on social media.
 [djangopaymentsmercadopago]: https://github.com/EduardoZepeda/django-payments-mercadopago
 [djangopostalcodesmx]: https://github.com/EduardoZepeda/django-postalcodes-mexico
 [hugothemelatte]: https://github.com/EduardoZepeda/hugo-theme-latte
+[az900certificate]: https://www.credly.com/badges/17608a52-2cb7-4268-a907-613459559911/public_url
+[udemy]: https://www.udemy.com/user/carlos-eduardo-magallon-zepeda/
