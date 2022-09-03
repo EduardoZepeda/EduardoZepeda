@@ -85,7 +85,7 @@ Feel free to message me on social media.
 [eduardozepeda]: https://eduardozepeda.dev/
 [enfokshop]: https://enfokshop.com/es-mx/
 [coffeebytes]: https://coffeebytes.dev/
-[tamper]: https://django-gis-testing.herokuapp.com/
+[tamper]: https://django-gis-coffee.fly.dev/
 [minesweeper]: https://eduardozepeda.github.io/mine-sweeper/
 [coffeeshopsgdl]: https://go-coffee-api.vercel.app/
 [coffeeprovider]: https://nextjs-practice-mauve.vercel.app/
