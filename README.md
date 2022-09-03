@@ -54,11 +54,11 @@ Visit [eduardozepeda.dev][eduardozepeda] if you want further details about each 
 I have a blog, where I write entries about web development: Javascript, Python, Go and sometimes GNU/Linux. 
 
 <!-- BLOG-POST-LIST:START -->
+- [Examen de Certificacion Azure AZ-900 Mi Experiencia](https://coffeebytes.dev/examen-de-certificacion-azure-az-900-mi-experiencia/)
 - [Sitemap Dinámico con Django](https://coffeebytes.dev/sitemap-dinamico-con-django/)
 - [Logging con la librería estándar en Go](https://coffeebytes.dev/logging-con-la-libreria-estandar-en-go/)
 - [¿Cómo Funciona un Container de Docker Internamente?](https://coffeebytes.dev/container-de-docker-con-namespaces-y-cgroups/)
 - [Autocompletado, Sugerencias y Contenido Relacionado: Solr Y Django](https://coffeebytes.dev/autocompletado-sugerencias-y-contenido-relacionado-solr-y-django/)
-- [¿Cómo implementar Solr para búsquedas o queries en Django?](https://coffeebytes.dev/busquedas-con-solr-con-django-haystack/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
