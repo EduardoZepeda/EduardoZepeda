@@ -54,11 +54,11 @@ Visit [eduardozepeda.dev][eduardozepeda] if you want further details about each 
 I have a blog, where I write entries about web development: Javascript, Python, Go and sometimes GNU/Linux. 
 
 <!-- BLOG-POST-LIST:START -->
+- [Go: Manejo de Signals para Cerrar Aplicaciones](https://coffeebytes.dev/go-manejo-de-signals-para-cerrar-aplicaciones/)
 - [Generar PDFs con Django y Reportlab](https://coffeebytes.dev/generar-pdfs-con-django-y-reportlab/)
 - [Examen de Certificacion Azure AZ-900 Mi Experiencia](https://coffeebytes.dev/examen-de-certificacion-azure-az-900-mi-experiencia/)
 - [Sitemap Dinámico con Django](https://coffeebytes.dev/sitemap-dinamico-con-django/)
 - [Logging con la librería estándar en Go](https://coffeebytes.dev/logging-con-la-libreria-estandar-en-go/)
-- [¿Cómo Funciona un Container de Docker Internamente?](https://coffeebytes.dev/container-de-docker-con-namespaces-y-cgroups/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
