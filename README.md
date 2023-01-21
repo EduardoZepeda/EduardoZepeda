@@ -54,11 +54,11 @@ Visit [eduardozepeda.dev][eduardozepeda] if you want further details about each 
 I have a blog, where I write entries about web development: Javascript, Python, Go and sometimes GNU/Linux. 
 
 <!-- BLOG-POST-LIST:START -->
+- [Libera El Potencial De Tu API Con gRPC y Protobuffers](https://coffeebytes.dev/libera-el-potencial-de-tu-api-con-grpc-y-protobuffers/)
 - [Pongo a prueba a ChatGPT Con Desafios De Codigo De Codewars](https://coffeebytes.dev/pongo-a-prueba-a-chatgpt-con-desafios-de-codigo-de-codewars/)
 - [Tutorial de migraciones en Go con migrate](https://coffeebytes.dev/tutorial-de-migraciones-en-go-con-migrate/)
 - [Go: Manejo de Signals para Cerrar Aplicaciones](https://coffeebytes.dev/go-manejo-de-signals-para-cerrar-aplicaciones/)
 - [Generar PDFs con Django y Reportlab](https://coffeebytes.dev/generar-pdfs-con-django-y-reportlab/)
-- [Examen de Certificacion Azure AZ-900 Mi Experiencia](https://coffeebytes.dev/examen-de-certificacion-azure-az-900-mi-experiencia/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
