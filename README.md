@@ -22,12 +22,13 @@
 ## About me
 
 Web developer and GNU/Linux enthusiast.
+  - Graduated from CUCEI
   - I learned almost all I know about web development through [these books][books]
   - Lately, I've been taking online courses on [Udemy][udemy], Educative and [Platzi][platzi]
   - Microsoft Azure [AZ-900 certified][az900certificate]
   - Sometimes I practice katas (algorithms) on [codewars][codewars], I'm 2 kyu now!
   - Debian is my personal OS since 2010.
-  - Python, Django, FastAPI
+  - Python, Django, DRF, FastAPI
   - Javascript, Typescript, React, Nextjs
   - Go, Hugo
 
@@ -36,6 +37,7 @@ Web developer and GNU/Linux enthusiast.
 Visit [eduardozepeda.dev][eduardozepeda] if you want further details about each site's stack and source code.
 
 - [Enfok shop][enfokshop]
+- [Biodek][Biodek]
 - [Coffee bytes][coffeebytes]
 - [Tamper][tamper]
 - [Mine Sweeper][minesweeper]
@@ -98,3 +100,4 @@ Feel free to message me on social media.
 [hugothemelatte]: https://github.com/EduardoZepeda/hugo-theme-latte
 [az900certificate]: https://www.credly.com/badges/17608a52-2cb7-4268-a907-613459559911/public_url
 [udemy]: https://www.udemy.com/user/carlos-eduardo-magallon-zepeda/
+[biodek]: https://biodek-landing-page.vercel.app/
