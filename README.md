@@ -60,7 +60,7 @@ I have a blog, where I write entries about web development: Javascript, Python, 
 - [Go con Reflect: Descubre Cómo la Reflexión Puede Impulsar la Flexibilidad de tu Programa](https://coffeebytes.dev/go-con-reflect-descubre-como-la-reflexion-puede-impulsar-la-flexibilidad-de-tu-programa/)
 - [Stremea tus videos y audios: Una introducción sencilla al streaming con HLS para tus aplicaciones](https://coffeebytes.dev/stremea-tus-videos-y-audios-una-introduccion-sencilla-al-streaming-con-hls-para-tus-aplicaciones/)
 - [Libera El Potencial De Tu API Con gRPC y Protobuffers](https://coffeebytes.dev/libera-el-potencial-de-tu-api-con-grpc-y-protobuffers/)
-- [Pongo a prueba a ChatGPT Con Desafios De Codigo De Codewars](https://coffeebytes.dev/pongo-a-prueba-a-chatgpt-con-desafios-de-codigo-de-codewars/)
+- [No digas &quot;hola&quot;](https://coffeebytes.dev/pages/no-digas-hola/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
