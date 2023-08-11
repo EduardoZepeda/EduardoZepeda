@@ -56,11 +56,11 @@ Visit [eduardozepeda.dev][eduardozepeda] if you want further details about each 
 I have a blog, where I write entries about web development: Javascript, Python, Go and sometimes GNU/Linux. 
 
 <!-- BLOG-POST-LIST:START -->
-- [Worker Pool Design Pattern Explanation](https://coffeebytes.dev/worker-pool-design-pattern-explanation/)
-- [Chat Gpt, Searle&#39;s Chinese Room and consciousness](https://coffeebytes.dev/chat-gpt-searles-chinese-room-and-consciousness/)
-- [Go with Reflect: Discover How Reflect Can Boost Your Program&#39;s Flexibility](https://coffeebytes.dev/go-with-reflect-discover-how-reflect-can-boost-your-programs-flexibility/)
-- [Stream your videos and audios: A simple introduction to streaming with HLS for your applications](https://coffeebytes.dev/stream-your-videos-and-audios-a-simple-introduction-to-streaming-with-hls-for-your-applications/)
-- [Unleash Your API&#39;s Potential With gRPC and Protobuffers](https://coffeebytes.dev/unleash-your-apis-potential-with-grpc-and-protobuffers/)
+- [Explicación del Patron De Diseño Worker Pool](https://coffeebytes.dev/explicacion-del-patron-de-diseno-worker-pool/)
+- [Chat Gpt, La Habitacion China De Searle y la conciencia](https://coffeebytes.dev/chat-gpt-la-habitacion-china-de-searle-y-la-conciencia/)
+- [Go con Reflect: Descubre Cómo la Reflexión Puede Impulsar la Flexibilidad de tu Programa](https://coffeebytes.dev/go-con-reflect-descubre-como-la-reflexion-puede-impulsar-la-flexibilidad-de-tu-programa/)
+- [Stremea tus videos y audios: Una introducción sencilla al streaming con HLS para tus aplicaciones](https://coffeebytes.dev/stremea-tus-videos-y-audios-una-introduccion-sencilla-al-streaming-con-hls-para-tus-aplicaciones/)
+- [Libera El Potencial De Tu API Con gRPC y Protobuffers](https://coffeebytes.dev/libera-el-potencial-de-tu-api-con-grpc-y-protobuffers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
