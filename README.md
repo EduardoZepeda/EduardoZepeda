@@ -56,11 +56,11 @@ Visit [eduardozepeda.dev][eduardozepeda] if you want further details about each 
 I have a blog, where I write entries about web development: Javascript, Python, Go and sometimes GNU/Linux. 
 
 <!-- BLOG-POST-LIST:START -->
+- [Patrones De Deployment o Despliegue Útiles](https://coffeebytes.dev/patrones-de-deployment-o-despliegue-utiles/)
 - [Explicación del Patron De Diseño Worker Pool](https://coffeebytes.dev/explicacion-del-patron-de-diseno-worker-pool/)
 - [Chat Gpt, La Habitacion China De Searle y la conciencia](https://coffeebytes.dev/chat-gpt-la-habitacion-china-de-searle-y-la-conciencia/)
 - [Go con Reflect: Descubre Cómo la Reflexión Puede Impulsar la Flexibilidad de tu Programa](https://coffeebytes.dev/go-con-reflect-descubre-como-la-reflexion-puede-impulsar-la-flexibilidad-de-tu-programa/)
 - [Stremea tus videos y audios: Una introducción sencilla al streaming con HLS para tus aplicaciones](https://coffeebytes.dev/stremea-tus-videos-y-audios-una-introduccion-sencilla-al-streaming-con-hls-para-tus-aplicaciones/)
-- [Libera El Potencial De Tu API Con gRPC y Protobuffers](https://coffeebytes.dev/libera-el-potencial-de-tu-api-con-grpc-y-protobuffers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My social media
