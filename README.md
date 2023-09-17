@@ -57,11 +57,11 @@ Drop by [eduardozepeda.dev][eduardozepeda] if you want further details about eac
 I run a blog, where I write entries about the depths of web development and sometimes about my thoughts on some computer science hot topics.
 
 <!-- BLOG-POST-LIST:START -->
-- [Go con Reflect: Descubre Cómo la Reflexión Puede Impulsar la Flexibilidad de tu Programa](https://coffeebytes.dev/go-con-reflect-descubre-como-la-reflexion-puede-impulsar-la-flexibilidad-de-tu-programa/)
-- [Stremea tus videos y audios: Una introducción sencilla al streaming con HLS para tus aplicaciones](https://coffeebytes.dev/stremea-tus-videos-y-audios-una-introduccion-sencilla-al-streaming-con-hls-para-tus-aplicaciones/)
-- [Libera El Potencial De Tu API Con gRPC y Protobuffers](https://coffeebytes.dev/libera-el-potencial-de-tu-api-con-grpc-y-protobuffers/)
-- [Pongo a prueba a ChatGPT Con Desafios De Codigo De Codewars](https://coffeebytes.dev/pongo-a-prueba-a-chatgpt-con-desafios-de-codigo-de-codewars/)
-- [Tutorial de migraciones en Go con migrate](https://coffeebytes.dev/tutorial-de-migraciones-en-go-con-migrate/)
+- [Common and Useful Deployment Patterns](https://eduardozepeda.dev/blog/common-and-useful-deployment-patterns/)
+- [Worker Pool Design Pattern Explanation](https://eduardozepeda.dev/blog/worker-pool-design-pattern-explanation/)
+- [Chat Gpt, Searle&#39;s Chinese Room and consciousness](https://eduardozepeda.dev/blog/chat-gpt-searles-chinese-room-and-consciousness/)
+- [Go with Reflect: Discover How Reflect Can Boost Your Program&#39;s Flexibility](https://eduardozepeda.dev/blog/go-with-reflect-discover-how-reflect-can-boost-your-programs-flexibility/)
+- [Stream your videos and audios: A simple introduction to streaming with HLS for your applications](https://eduardozepeda.dev/blog/stream-your-videos-and-audios-a-simple-introduction-to-streaming-with-hls-for-your-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 Read the Spanish version on [Coffee bytes][website]
