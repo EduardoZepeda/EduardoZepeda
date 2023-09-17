@@ -21,7 +21,7 @@
 
 ## About me
 
-Web developer and GNU/Linux enthusiast.
+Web developer backend and frontend, and GNU/Linux enthusiast.
   - Graduated from CUCEI
   - I learned almost all I know about web development through [these books][books]
   - Lately, I've been taking online courses on [Udemy][udemy], Educative and [Platzi][platzi]
@@ -31,10 +31,11 @@ Web developer and GNU/Linux enthusiast.
   - Python, Django, DRF, FastAPI
   - Javascript, Typescript, React, Nextjs
   - Go, Hugo
+  - Currently learning Rust
 
 ## Some projects
 
-Visit [eduardozepeda.dev][eduardozepeda] if you want further details about each site's stack and source code.
+Drop by [eduardozepeda.dev][eduardozepeda] if you want further details about each site's stack and source code.
 
 - [Enfok shop][enfokshop]
 - [Biodek][Biodek]
@@ -53,15 +54,17 @@ Visit [eduardozepeda.dev][eduardozepeda] if you want further details about each 
 
 ## My latest blog posts
 
-I have a blog, where I write entries about web development: Javascript, Python, Go and sometimes GNU/Linux. 
+I run a blog, where I write entries about the depths of web development and sometimes about my thoughts on some computer science hot topics.
 
 <!-- BLOG-POST-LIST:START -->
-- [Patrones De Deployment o Despliegue Útiles](https://coffeebytes.dev/patrones-de-deployment-o-despliegue-utiles/)
-- [Explicación del Patron De Diseño Worker Pool](https://coffeebytes.dev/explicacion-del-patron-de-diseno-worker-pool/)
-- [Chat Gpt, La Habitacion China De Searle y la conciencia](https://coffeebytes.dev/chat-gpt-la-habitacion-china-de-searle-y-la-conciencia/)
 - [Go con Reflect: Descubre Cómo la Reflexión Puede Impulsar la Flexibilidad de tu Programa](https://coffeebytes.dev/go-con-reflect-descubre-como-la-reflexion-puede-impulsar-la-flexibilidad-de-tu-programa/)
 - [Stremea tus videos y audios: Una introducción sencilla al streaming con HLS para tus aplicaciones](https://coffeebytes.dev/stremea-tus-videos-y-audios-una-introduccion-sencilla-al-streaming-con-hls-para-tus-aplicaciones/)
+- [Libera El Potencial De Tu API Con gRPC y Protobuffers](https://coffeebytes.dev/libera-el-potencial-de-tu-api-con-grpc-y-protobuffers/)
+- [Pongo a prueba a ChatGPT Con Desafios De Codigo De Codewars](https://coffeebytes.dev/pongo-a-prueba-a-chatgpt-con-desafios-de-codigo-de-codewars/)
+- [Tutorial de migraciones en Go con migrate](https://coffeebytes.dev/tutorial-de-migraciones-en-go-con-migrate/)
 <!-- BLOG-POST-LIST:END -->
+
+Read the Spanish version on [Coffee bytes][website]
 
 ## My social media
 
@@ -69,17 +72,16 @@ Feel free to message me on social media.
 
   - :speech_balloon: [twitter][twitter]
   - :anger: [linkedin][linkedin] (Not very active here, though)
-  - ::
 
 ## Personal stuff
 
   - :movie_camera: I am passionate about art films. Long live the indie film makers and mubi!
-  - :books: I like to read sci-fi books
-  - :jp: I'm into Anime/Manga (mostly old ones)
+  - :books: I enjoy spending my free time reading sci-fi books
+  - :jp: I'm into Anime/Manga (mostly old ones, though)
   - :video_game: I love to play videogames. However I'm very picky when it comes to choosing them because my free time is limited
   - :coffee: I know a little bit about speciality coffee
 
-[books]: https://coffeebytes.dev/pages/books-ive-read-and-reviews/ "I wrote a few reviews about them"
+[books]: https://eduardozepeda.dev/pages/books-i-read/ "I wrote a few reviews about them"
 [platzi]: https://platzi.com/@eduardo-zepeda/
 [codewars]: https://www.codewars.com/users/EduardoZepeda
 [website]: https://coffeebytes.dev
