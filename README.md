@@ -57,11 +57,11 @@ Drop by [eduardozepeda.dev][eduardozepeda] if you want further details about eac
 I run a blog, where I write entries about the depths of web development and sometimes about my thoughts on some computer science hot topics.
 
 <!-- BLOG-POST-LIST:START -->
+- [Composition over inheritance in OOP simple explanation](https://eduardozepeda.dev/blog/composition-over-inheritance-in-oop-simple-explanation/)
 - [Common and Useful Deployment Patterns](https://eduardozepeda.dev/blog/common-and-useful-deployment-patterns/)
 - [Worker Pool Design Pattern Explanation](https://eduardozepeda.dev/blog/worker-pool-design-pattern-explanation/)
 - [Chat Gpt, Searle&#39;s Chinese Room and consciousness](https://eduardozepeda.dev/blog/chat-gpt-searles-chinese-room-and-consciousness/)
 - [Go with Reflect: Discover How Reflect Can Boost Your Program&#39;s Flexibility](https://eduardozepeda.dev/blog/go-with-reflect-discover-how-reflect-can-boost-your-programs-flexibility/)
-- [Stream your videos and audios: A simple introduction to streaming with HLS for your applications](https://eduardozepeda.dev/blog/stream-your-videos-and-audios-a-simple-introduction-to-streaming-with-hls-for-your-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 Read the Spanish version on [Coffee bytes][website]
