@@ -22,6 +22,7 @@
 ## About me
 
 Web developer backend and frontend, and GNU/Linux enthusiast. Drop by [eduardozepeda.dev][eduardozepeda] for my personal website.
+  - I create content about tech on [instagram][instagram]
   - +100 articles/tutorials published at [coffeebytes][blog-en]
   - Graduated from CUCEI
   - I learned almost all I know about web development through [these books][books]
@@ -83,6 +84,7 @@ Feel free to message me on social media.
   - :coffee: I know a little bit about speciality coffee
 
 [blog-en]: https://eduardozepeda.dev/blog/page/1/
+[instagram]: https://www.instagram.com/eduardozepeda.dev/
 [books]: https://eduardozepeda.dev/pages/books-i-read/ "I wrote a few reviews about them"
 [platzi]: https://platzi.com/@eduardo-zepeda/
 [codewars]: https://www.codewars.com/users/EduardoZepeda
