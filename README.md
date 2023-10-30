@@ -21,13 +21,14 @@
 
 ## About me
 
-Web developer backend and frontend, and GNU/Linux enthusiast.
+Web developer backend and frontend, and GNU/Linux enthusiast. Drop by [eduardozepeda.dev][eduardozepeda] for my personal website.
+  - +100 articles/tutorials published at [coffeebytes][blog-en]
   - Graduated from CUCEI
   - I learned almost all I know about web development through [these books][books]
-  - Lately, I've been taking online courses on [Udemy][udemy], Educative and [Platzi][platzi]
+  - Always, taking new online courses on [Udemy][udemy], Educative, [Platzi][platzi] and others.
   - Microsoft Azure [AZ-900 certified][az900certificate]
   - Sometimes I practice katas (algorithms) on [codewars][codewars], I'm 2 kyu now!
-  - Debian is my personal OS since 2010.
+  - Linux is my personal OS since 2010.
   - Python, Django, DRF, FastAPI
   - Javascript, Typescript, React, Nextjs
   - Go, Hugo
@@ -35,7 +36,7 @@ Web developer backend and frontend, and GNU/Linux enthusiast.
 
 ## Some projects
 
-Drop by [eduardozepeda.dev][eduardozepeda] if you want further details about each site's stack and source code.
+visit [eduardozepeda.dev][eduardozepeda] if you want further details about each site's stack and source code.
 
 - [Enfok shop][enfokshop]
 - [Biodek][Biodek]
@@ -81,6 +82,7 @@ Feel free to message me on social media.
   - :video_game: I love to play videogames. However I'm very picky when it comes to choosing them because my free time is limited
   - :coffee: I know a little bit about speciality coffee
 
+[blog-en]: https://eduardozepeda.dev/blog/page/1/
 [books]: https://eduardozepeda.dev/pages/books-i-read/ "I wrote a few reviews about them"
 [platzi]: https://platzi.com/@eduardo-zepeda/
 [codewars]: https://www.codewars.com/users/EduardoZepeda
