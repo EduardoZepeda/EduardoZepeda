@@ -59,11 +59,11 @@ visit [eduardozepeda.dev][eduardozepeda] if you want further details about each 
 I run a blog, where I write entries about the depths of web development and sometimes about my thoughts on some computer science hot topics.
 
 <!-- BLOG-POST-LIST:START -->
+- [Devin From Cognition Labs The Artificial Intelligence That Wants To Replace Programmers](https://eduardozepeda.dev/blog/devin-from-cognition-labs-the-artificial-intelligence-that-wants-to-replace-programmers/)
 - [SAAS and OTS as software business models and my opinion on Once](https://eduardozepeda.dev/blog/saas-and-ots-as-software-business-models-and-my-opinion-on-once/)
 - [Artificial Intelligence &amp; Drug Design for Developers](https://eduardozepeda.dev/blog/artificial-intelligence-drug-design-for-developers/)
 - [Composition over inheritance in OOP simple explanation](https://eduardozepeda.dev/blog/composition-over-inheritance-in-oop-simple-explanation/)
 - [Common and Useful Deployment Patterns](https://eduardozepeda.dev/blog/common-and-useful-deployment-patterns/)
-- [Worker Pool Design Pattern Explanation](https://eduardozepeda.dev/blog/worker-pool-design-pattern-explanation/)
 <!-- BLOG-POST-LIST:END -->
 
 Read the Spanish version on [Coffee bytes][website]
