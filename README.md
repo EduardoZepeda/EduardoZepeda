@@ -21,7 +21,7 @@
 
 ## About me
 
-Web developer backend and frontend, and GNU/Linux enthusiast. Drop by [eduardozepeda.dev][eduardozepeda] for my personal website.
+Web developer backend and frontend, and GNU/Linux enthusiast. Drop by [zeedu.dev][eduardozepeda] for my personal website.
   - I create content about tech on [instagram][instagram]
   - +100 articles/tutorials published at [coffeebytes][blog-en]
   - Graduated from CUCEI
@@ -37,7 +37,7 @@ Web developer backend and frontend, and GNU/Linux enthusiast. Drop by [eduardoze
 
 ## Some projects
 
-visit [eduardozepeda.dev][eduardozepeda] if you want further details about each site's stack and source code.
+visit [zeedu.dev][eduardozepeda] if you want further details about each site's stack and source code.
 
 - [Enfok shop][enfokshop]
 - [Biodek][Biodek]
@@ -59,11 +59,11 @@ visit [eduardozepeda.dev][eduardozepeda] if you want further details about each 
 I run a blog, where I write entries about the depths of web development and sometimes about my thoughts on some computer science hot topics.
 
 <!-- BLOG-POST-LIST:START -->
-- [Devin From Cognition Labs The Artificial Intelligence That Wants To Replace Programmers](https://eduardozepeda.dev/blog/devin-from-cognition-labs-the-artificial-intelligence-that-wants-to-replace-programmers/)
-- [SAAS and OTS as software business models and my opinion on Once](https://eduardozepeda.dev/blog/saas-and-ots-as-software-business-models-and-my-opinion-on-once/)
-- [Artificial Intelligence &amp; Drug Design for Developers](https://eduardozepeda.dev/blog/artificial-intelligence-drug-design-for-developers/)
-- [Composition over inheritance in OOP simple explanation](https://eduardozepeda.dev/blog/composition-over-inheritance-in-oop-simple-explanation/)
-- [Common and Useful Deployment Patterns](https://eduardozepeda.dev/blog/common-and-useful-deployment-patterns/)
+- [Devin From Cognition Labs The Artificial Intelligence That Wants To Replace Programmers](https://zeedu.dev/blog/devin-from-cognition-labs-the-artificial-intelligence-that-wants-to-replace-programmers/)
+- [SAAS and OTS as software business models and my opinion on Once](https://zeedu.dev/blog/saas-and-ots-as-software-business-models-and-my-opinion-on-once/)
+- [Artificial Intelligence &amp; Drug Design for Developers](https://zeedu.dev/blog/artificial-intelligence-drug-design-for-developers/)
+- [Composition over inheritance in OOP simple explanation](https://zeedu.dev/blog/composition-over-inheritance-in-oop-simple-explanation/)
+- [Common and Useful Deployment Patterns](https://zeedu.dev/blog/common-and-useful-deployment-patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 Read the Spanish version on [Coffee bytes][website]
@@ -83,15 +83,15 @@ Feel free to message me on social media.
   - :video_game: I love to play videogames. However I'm very picky when it comes to choosing them because my free time is limited
   - :coffee: I know a little bit about speciality coffee
 
-[blog-en]: https://eduardozepeda.dev/blog/page/1/
-[instagram]: https://www.instagram.com/eduardozepeda.dev/
-[books]: https://eduardozepeda.dev/pages/books-i-read/ "I wrote a few reviews about them"
+[blog-en]: https://zeedu.dev/blog/page/1/
+[instagram]: https://www.instagram.com/zeedu.dev/
+[books]: https://zeedu.dev/pages/books-i-read/ "I wrote a few reviews about them"
 [platzi]: https://platzi.com/@eduardo-zepeda/
 [codewars]: https://www.codewars.com/users/EduardoZepeda
 [website]: https://coffeebytes.dev
 [twitter]: https://twitter.com/hello_wired
 [linkedin]: https://linkedin.com/in/eduardomzepeda
-[eduardozepeda]: https://eduardozepeda.dev/
+[eduardozepeda]: https://zeedu.dev/
 [enfokshop]: https://enfokshop.com/es-mx/
 [coffeebytes]: https://coffeebytes.dev/
 [tamper]: https://django-gis-coffee.vercel.app/
