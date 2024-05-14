@@ -42,6 +42,7 @@ visit [zeedu.dev][eduardozepeda] if you want further details about each site's s
 - [Enfok shop][enfokshop]
 - [Biodek][Biodek]
 - [Coffee bytes][coffeebytes]
+- [Camera Shutter count][camerashuttercount]
 - [Tamper][tamper]
 - [Mine Sweeper][minesweeper]
 - [Coffee shops in Gdl API][coffeeshopsgdl]
@@ -88,7 +89,7 @@ Feel free to message me on social media.
 [books]: https://zeedu.dev/pages/books-i-read/ "I wrote a few reviews about them"
 [platzi]: https://platzi.com/@eduardo-zepeda/
 [codewars]: https://www.codewars.com/users/EduardoZepeda
-[website]: https://coffeebytes.dev
+[website]: https://coffeebytes.dev/es
 [twitter]: https://twitter.com/hello_wired
 [linkedin]: https://linkedin.com/in/eduardomzepeda
 [eduardozepeda]: https://zeedu.dev/
@@ -108,3 +109,4 @@ Feel free to message me on social media.
 [az900certificate]: https://www.credly.com/badges/17608a52-2cb7-4268-a907-613459559911/public_url
 [udemy]: https://www.udemy.com/user/carlos-eduardo-magallon-zepeda/
 [biodek]: https://biodek-landing-page.vercel.app/
+[camerashuttercount]: https://camerashuttercount.net/
