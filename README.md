@@ -60,11 +60,11 @@ visit [zeedu.dev][eduardozepeda] if you want further details about each site's s
 I run a blog, where I write entries about the depths of web development and sometimes about my thoughts on some computer science hot topics.
 
 <!-- BLOG-POST-LIST:START -->
+- [My Analysis Of Anti Bot Captchas and their  Advantages And Disadvantages](https://coffeebytes.dev/en/my-analysis-of-anti-bot-captchas-and-their-advantages-and-disadvantages/)
 - [My mistakes regarding the tech SEO optimization of my website](https://coffeebytes.dev/en/my-mistakes-regarding-the-tech-seo-optimization-of-my-website/)
 - [The Rise and Fall of the AI Bubble](https://coffeebytes.dev/en/the-rise-and-fall-of-the-ai-bubble/)
 - [Don&#39;t Obsess About Your Web Application Performance](https://coffeebytes.dev/en/dont-obsess-about-your-web-application-performance/)
 - [Why I abhor datetime-local and dates in Javascript?](https://coffeebytes.dev/en/why-i-abhor-htmls-datetime-local-input-and-dates-management-in-javascript/)
-- [Devin AI Will this AI Replace Programmers?](https://coffeebytes.dev/en/devin-ai-the-supposed-replacement-for-programmers/)
 <!-- BLOG-POST-LIST:END -->
 
 Read the Spanish version on [Coffee bytes][website]
