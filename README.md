@@ -4,7 +4,7 @@
 
 Web developer backend and frontend, and GNU/Linux enthusiast. Drop by [zeedu.dev][eduardozepeda] for my personal website.
   - I create content about tech on [instagram][instagram]
-  - +100 articles/tutorials published at [coffeebytes][blog-en]
+  - +100 articles/tutorials published at [coffeebytes][coffeebytes]
   - Graduated from CUCEI
   - I learned almost all I know about web development through [these books][books]
   - Always, taking new online courses on [Udemy][udemy], Educative, [Platzi][platzi] and others.
@@ -65,7 +65,6 @@ Feel free to message me on social media.
   - :video_game: I love to play videogames. However I'm very picky when it comes to choosing them because my free time is limited
   - :coffee: I know a little bit about speciality coffee
 
-[blog-en]: https://zeedu.dev/blog/page/1/
 [instagram]: https://www.instagram.com/zeedu.dev/
 [books]: https://coffeebytes.dev/en/pages/books-i-read-and-reviews/ "I wrote a few reviews about them"
 [platzi]: https://platzi.com/@eduardo-zepeda/
