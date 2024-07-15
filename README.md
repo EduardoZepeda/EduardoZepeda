@@ -41,11 +41,11 @@ visit [zeedu.dev][eduardozepeda] if you want further details about each site's s
 I run a blog, where I write entries about the depths of web development and sometimes about my thoughts on some computer science hot topics.
 
 <!-- BLOG-POST-LIST:START -->
+- [Fix slow queries in Django when using annotate and subqueries](https://coffeebytes.dev/en/fix-slow-queries-in-django-when-using-annotate-and-subqueries/)
 - [How to improve Django Framework?](https://coffeebytes.dev/en/how-to-improve-django-framework/)
 - [Go Programming Language Tutorial](https://coffeebytes.dev/en/pages/go-programming-language-tutorial/)
 - [How to avoid spam when putting an email on a website?](https://coffeebytes.dev/en/how-to-avoid-spam-when-putting-an-email-on-a-website/)
 - [My Analysis Of Anti Bot Captchas and their  Advantages And Disadvantages](https://coffeebytes.dev/en/my-analysis-of-anti-bot-captchas-and-their-advantages-and-disadvantages/)
-- [My mistakes regarding the tech SEO optimization of my website](https://coffeebytes.dev/en/my-mistakes-regarding-the-tech-seo-optimization-of-my-website/)
 <!-- BLOG-POST-LIST:END -->
 
 Read the Spanish version on [Coffee bytes][website]
