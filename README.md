@@ -20,13 +20,14 @@ Web developer backend and frontend, and GNU/Linux enthusiast. Drop by [zeedu.dev
 
 visit [zeedu.dev][eduardozepeda] if you want further details about each site's stack and source code.
 
+- [Fotosan][fotosan]
+- [Tamper][tamper]
+- [Coffee shops API][coffeeshopsgdl]
 - [Enfok shop][enfokshop]
 - [Biodek][Biodek]
 - [Coffee bytes][coffeebytes]
 - [Camera Shutter count][camerashuttercount]
-- [Tamper][tamper]
 - [Mine Sweeper][minesweeper]
-- [Coffee shops in Gdl API][coffeeshopsgdl]
 - [Coffee providers][coffeeprovider]
 - [The nexus][thenexus]
 - [Elemental names][elementalnames]
@@ -66,6 +67,7 @@ Feel free to message me on social media.
   - :coffee: I know a little bit about speciality coffee
 
 [instagram]: https://www.instagram.com/zeedu.dev/
+[fotosan]: https://fotosan.net/
 [books]: https://coffeebytes.dev/en/pages/books-i-read-and-reviews/ "I wrote a few reviews about them"
 [platzi]: https://platzi.com/@eduardo-zepeda/
 [codewars]: https://www.codewars.com/users/EduardoZepeda
