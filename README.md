@@ -42,7 +42,7 @@ visit [zeedu.dev][eduardozepeda] if you want further details about each site's s
 I run a blog, where I write entries about the depths of web development and sometimes about my thoughts on some computer science hot topics.
 
 <!-- BLOG-POST-LIST:START -->
-- [You Could Lose Your Crypto In a Job Interview](https://coffeebytes.dev/en/you-could-lose-your-crypto-in-a-job-interview/)
+- [You Could Lose All Your Crypto In a Job Interview](https://coffeebytes.dev/en/you-could-lose-all-your-crypto-in-a-job-interview/)
 - [What makes Rust so difficult to learn?](https://coffeebytes.dev/en/what-makes-rust-so-difficult-to-learn/)
 - [Google Notebooklm Will Reshape The Podcast Scenario Forever](https://coffeebytes.dev/en/google-notebooklm-will-reshape-the-podcast-scenario-forever/)
 - [Be careful of Shiny Object Syndrome and FOMO in web development](https://coffeebytes.dev/en/be-careful-of-shiny-object-syndrome-and-fomo-in-web-development/)
