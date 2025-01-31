@@ -42,11 +42,11 @@ visit [zeedu.dev][eduardozepeda] if you want further details about each site's s
 I run a blog, where I write entries about the depths of web development and sometimes about my thoughts on some computer science hot topics.
 
 <!-- BLOG-POST-LIST:START -->
+- [Multi Tenant Architecture in Software: What Is It and Its Databases Patterns](https://coffeebytes.dev/en/multi-tenant-architecture-in-software-what-is-it-and-its-databases-patterns/)
 - [I took advantage of an error in the code of a dating app](https://coffeebytes.dev/en/i-took-advantage-of-an-error-in-the-code-of-a-dating-app/)
 - [You Could Lose All Your Crypto In a Job Interview](https://coffeebytes.dev/en/you-could-lose-all-your-crypto-in-a-job-interview/)
 - [What makes Rust so difficult to learn?](https://coffeebytes.dev/en/what-makes-rust-so-difficult-to-learn/)
 - [Google Notebooklm Will Reshape The Podcast Scenario Forever](https://coffeebytes.dev/en/google-notebooklm-will-reshape-the-podcast-scenario-forever/)
-- [Be careful of Shiny Object Syndrome and FOMO in web development](https://coffeebytes.dev/en/be-careful-of-shiny-object-syndrome-and-fomo-in-web-development/)
 <!-- BLOG-POST-LIST:END -->
 
 Read the Spanish version on [Coffee bytes][website]
