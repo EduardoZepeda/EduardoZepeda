@@ -23,7 +23,6 @@ visit [zeedu.dev][eduardozepeda] if you want further details about each site's s
 - [Fotosan][fotosan]
 - [Tamper][tamper]
 - [Coffee shops API][coffeeshopsgdl]
-- [Enfok shop][enfokshop]
 - [Biodek][Biodek]
 - [Coffee bytes][coffeebytes]
 - [Camera Shutter count][camerashuttercount]
@@ -75,7 +74,6 @@ Feel free to message me on social media.
 [twitter]: https://twitter.com/hello_wired
 [linkedin]: https://linkedin.com/in/eduardomzepeda
 [eduardozepeda]: https://zeedu.dev/
-[enfokshop]: https://enfokshop.com/es-mx/
 [coffeebytes]: https://coffeebytes.dev/
 [tamper]: https://django-gis-coffee.vercel.app/
 [minesweeper]: https://eduardozepeda.github.io/mine-sweeper/
