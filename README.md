@@ -41,11 +41,11 @@ visit [zeedu.dev][eduardozepeda] if you want further details about each site's s
 I run a blog, where I write entries about the depths of web development and sometimes about my thoughts on some computer science hot topics.
 
 <!-- BLOG-POST-LIST:START -->
+- [A Technical SEO Basics Checklist Made For Web Developers](https://coffeebytes.dev/en/a-technical-seo-basics-checklist-made-for-web-developers/)
 - [Understand the Model Context Protocol or MCP once and for all](https://coffeebytes.dev/en/understand-the-model-context-protocol-or-mcp-once-and-for-all/)
 - [The Easiest Way To Use Https In Localhost](https://coffeebytes.dev/en/the-easiest-way-to-use-https-in-localhost/)
 - [Fine-Tuning A LLM Small Practical Guide With Resources](https://coffeebytes.dev/en/fine-tuning-a-llm-small-practical-guide-with-resources/)
 - [Multi Tenant Architecture in Software: What Is It and Its Databases Patterns](https://coffeebytes.dev/en/multi-tenant-architecture-in-software-what-is-it-and-its-databases-patterns/)
-- [I took advantage of an error in the code of a dating app](https://coffeebytes.dev/en/i-took-advantage-of-an-error-in-the-code-of-a-dating-app/)
 <!-- BLOG-POST-LIST:END -->
 
 Read the Spanish version on [Coffee bytes][website]
