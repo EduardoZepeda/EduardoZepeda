@@ -43,7 +43,7 @@ I run a blog, where I write entries about the depths of web development and some
 <!-- BLOG-POST-LIST:START -->
 - [How to create a MCP server and MCP tools from scratch?](https://coffeebytes.dev/en/artificial-intelligence/how-to-create-a-mcp-server-and-mcp-tools-from-scratch/)
 - [Zero Downtime Migrations: Shadow Table Strategy Explained](https://coffeebytes.dev/en/databases/zero-downtime-migrations-shadow-table-strategy-explained/)
-- [Bolt vs Lovable vs V0 Vercel For Landing Pages Comparison](https://coffeebytes.dev/en/artificial-intelligence/bolt-vs-lovable-vs-v0-vercel-for-landing-pages-comparison/)
+- [My Bolt vs Lovable vs V0 Vercel Comparison](https://coffeebytes.dev/en/artificial-intelligence/my-bolt-vs-lovable-vs-v0-vercel-comparison/)
 - [AI-generated Art and AI-generated code are treated differently](https://coffeebytes.dev/en/artificial-intelligence/ai-generated-art-and-ai-generated-code-are-treated-differently/)
 - [My Curated Best Resources To Learn Python Programming Language](https://coffeebytes.dev/en/python/my-curated-best-resources-to-learn-python-programming-language/)
 <!-- BLOG-POST-LIST:END -->
