@@ -41,11 +41,11 @@ visit [zeedu.dev][eduardozepeda] if you want further details about each site's s
 I run a blog, where I write entries about the depths of web development and sometimes about my thoughts on some computer science hot topics.
 
 <!-- BLOG-POST-LIST:START -->
+- [Swiss Tables the superior performance hashmap](https://coffeebytes.dev/en/software-architecture/swiss-tables-the-superior-performance-hashmap/)
 - [I Built a Bloom Filter Data Structure Simulator](https://coffeebytes.dev/en/databases/i-built-a-bloom-filter-data-structure-simulator/)
 - [How to create a MCP server and MCP tools from scratch?](https://coffeebytes.dev/en/artificial-intelligence/how-to-create-a-mcp-server-and-mcp-tools-from-scratch/)
 - [Zero Downtime Migrations: Shadow Table Strategy Explained](https://coffeebytes.dev/en/databases/zero-downtime-migrations-shadow-table-strategy-explained/)
 - [My Bolt vs Lovable vs V0 Vercel Comparison](https://coffeebytes.dev/en/artificial-intelligence/my-bolt-vs-lovable-vs-v0-vercel-comparison/)
-- [AI-generated Art and AI-generated code are treated differently](https://coffeebytes.dev/en/artificial-intelligence/ai-generated-art-and-ai-generated-code-are-treated-differently/)
 <!-- BLOG-POST-LIST:END -->
 
 Read the Spanish version on [Coffee bytes][website]
