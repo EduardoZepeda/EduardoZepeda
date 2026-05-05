@@ -41,11 +41,11 @@ visit [zeedu.dev][eduardozepeda] if you want further details about each site's s
 I run a blog, where I write entries about the depths of web development and sometimes about my thoughts on some computer science hot topics.
 
 <!-- BLOG-POST-LIST:START -->
+- [The New God: The Delirious AI Cult on Social Media](https://coffeebytes.dev/en/opinion/the-new-god-the-delirious-ai-cult-on-social-media/)
 - [My n8n review after using it for half a year](https://coffeebytes.dev/en/opinion/my-n8n-review-after-using-it-for-half-a-year/)
 - [My Django Rapid Architecture short overview](https://coffeebytes.dev/en/django/my-django-rapid-architecture-short-overview/)
 - [I Built A Trie Tree Data Structure Simulator](https://coffeebytes.dev/en/software-architecture/i-built-a-trie-tree-data-structure-simulator/)
 - [Swiss Tables the superior performance hashmap](https://coffeebytes.dev/en/software-architecture/swiss-tables-the-superior-performance-hashmap/)
-- [I Built a Bloom Filter Data Structure Simulator](https://coffeebytes.dev/en/databases/i-built-a-bloom-filter-data-structure-simulator/)
 <!-- BLOG-POST-LIST:END -->
 
 Read the Spanish version on [Coffee bytes][website]
