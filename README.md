@@ -13,28 +13,25 @@ Web developer backend and frontend, and GNU/Linux enthusiast. Drop by [zeedu.dev
   - Linux is my personal OS since 2010.
   - Python, Django, DRF, FastAPI
   - Javascript, Typescript, React, Nextjs
-  - Go, Hugo
-  - Currently learning Rust
+  - Go, Hugo, Rust
+  - Currently learning AI Agents
 
 ## Some projects
 
 visit [zeedu.dev][eduardozepeda] if you want further details about each site's stack and source code.
 
-- [Fotosan][fotosan]
-- [Tamper][tamper]
-- [Coffee shops API][coffeeshopsgdl]
-- [Biodek][Biodek]
+- [Melibel][melibel]
 - [Coffee bytes][coffeebytes]
 - [Camera Shutter count][camerashuttercount]
-- [Mine Sweeper][minesweeper]
-- [Coffee providers][coffeeprovider]
+- [Aiko][aiko]
+- [Subjoin][subjoin]
+- [Tamper][tamper]
 - [The nexus][thenexus]
-- [Elemental names][elementalnames]
-- [Mi reflex][mireflex]
-- [Chiserstagram][chiserstagram]
+- [Coffee shops API][coffeeshopsgdl]
 - [Django payments mercado pago][djangopaymentsmercadopago]
 - [Django postal codes mx][djangopostalcodesmx]
 - [Hugo theme latte][hugothemelatte]
+- [Ytdl-GUI-Rust][ytdlguirust]
 
 ## My latest blog posts
 
@@ -66,9 +63,11 @@ Feel free to message me on social media.
   - :coffee: I know a little bit about speciality coffee
 
 [instagram]: https://www.instagram.com/zeedu.dev/
-[fotosan]: https://fotosan.net/
+[melibel]: https://melibel.app/
+[aiko]: https://landing-ai-automation-for-businesse.vercel.app/
 [books]: https://coffeebytes.dev/en/pages/books-i-read-and-reviews/ "I wrote a few reviews about them"
 [platzi]: https://platzi.com/@eduardo-zepeda/
+[subjoin]: https://subjoin.one/
 [codewars]: https://www.codewars.com/users/EduardoZepeda
 [website]: https://coffeebytes.dev/
 [twitter]: https://twitter.com/hello_wired
@@ -90,3 +89,4 @@ Feel free to message me on social media.
 [udemy]: https://www.udemy.com/user/carlos-eduardo-magallon-zepeda/
 [biodek]: https://biodek-landing-page.vercel.app/
 [camerashuttercount]: https://camerashuttercount.net/
+[ytdlguirust]: https://github.com/EduardoZepeda/rusty-yt-dlp-gui
