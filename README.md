@@ -42,7 +42,7 @@ I run a blog, where I write entries about the depths of web development and some
 - [My n8n review after using it for half a year](https://coffeebytes.dev/en/opinion/my-n8n-review-after-using-it-for-half-a-year/)
 - [My Django Rapid Architecture short overview](https://coffeebytes.dev/en/django/my-django-rapid-architecture-short-overview/)
 - [I Built A Trie Tree Data Structure Simulator](https://coffeebytes.dev/en/software-architecture/i-built-a-trie-tree-data-structure-simulator/)
-- [Swiss Tables the superior performance hashmap](https://coffeebytes.dev/en/software-architecture/swiss-tables-the-superior-performance-hashmap/)
+- [Swiss Tables the superior performance hashmap and interactive demo](https://coffeebytes.dev/en/software-architecture/swiss-tables-the-superior-performance-hashmap-and-interactive-demo/)
 <!-- BLOG-POST-LIST:END -->
 
 Read the Spanish version on [Coffee bytes][website]
